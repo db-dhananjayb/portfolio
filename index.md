@@ -10,11 +10,12 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Project 1 -- Jobs Website for Arezzo
+# Projects
+## Jobs Website for Arezzo
 
 Arezzo Europa needed an informal way to promote job postings. I created a responsive website to achieve this as a part of internal upskill program. This was a side project and While doing this I involved a couple more manual testers. And acted as project manager cum html/css developer.
 
-## Project 2 -- Fraud detection
+## Fraud detection
 
 In progress as part of PG program.
 
